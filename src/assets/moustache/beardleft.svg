@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 500.0 250.0"
+	enable-background="new 0 0 500.0 250.0"
+	xml:space="preserve">
+<defs>
+	<radialGradient id="fillGrad6" cx="90.558%" cy="27.647%" fx="90.558%" fy="27.647%" r="112.648%">
+   		<stop offset="0.000%" style="stop-color:rgb(252,252,252);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(246,246,246);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(240,240,240);stop-opacity:1.000" />
+	</radialGradient>
+
+</defs>
+	<path
+		transform = "rotate(-0.00 250.00 125.00)"
+		fill="url(#fillGrad6)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2"
+		stroke-linejoin="round"
+		stroke-linecap="square"
+		d="M494.66,88.96C492.53,140.04,450.08,157.95,390.64,186.48C315.34,217.12,197.46,252.82,5.34,147.74C276.00,236.23,313.34,103.37,399.55,44.08C445.83,18.64,494.66,33.24,494.66,88.96z"/>
+</svg>

@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/floppy/static/css/main.3bc6b53c.css",
+    "main.js": "/floppy/static/js/main.c3079ff2.js",
+    "static/media/stars.svg": "/floppy/static/media/stars.e211796e3d168cc515e6a431983e0c0b.svg",
+    "static/media/treepattern.svg": "/floppy/static/media/treepattern.74301b850b89760e3f17.svg",
+    "static/media/treepattern2.svg": "/floppy/static/media/treepattern2.071e5806930592d2d748.svg",
+    "static/media/human.svg": "/floppy/static/media/human.0113a564c311d08c3d7d1a1bdd33857d.svg",
+    "static/media/dog.svg": "/floppy/static/media/dog.13679756aed6b13501cbec399a591582.svg",
+    "static/media/bird.svg": "/floppy/static/media/bird.86d881cc358f38c3b249d0ae5b2e3e28.svg",
+    "static/media/humanhead.svg": "/floppy/static/media/humanhead.44e553b28f7716d5b1514128ddf81521.svg",
+    "static/media/doghead.svg": "/floppy/static/media/doghead.9aa6a2b60c987665ae519241c327753d.svg",
+    "static/media/clouds.svg": "/floppy/static/media/clouds.9c955dc7eda1e697205f6def70f2f498.svg",
+    "static/media/humanbody.svg": "/floppy/static/media/humanbody.07610369b3bbcc529bd095b378e5d8ab.svg",
+    "static/media/birdhead.svg": "/floppy/static/media/birdhead.7b76894de73cd131026050e2b0ed245e.svg",
+    "static/media/dogbody.svg": "/floppy/static/media/dogbody.fc8aa793b086b91139ff22f94f51b918.svg",
+    "static/media/hat.svg": "/floppy/static/media/hat.47f8fdf7a947485ff792e3cd6def03fa.svg",
+    "static/media/ear.svg": "/floppy/static/media/ear.469ef4af37cf11ef5b6ec88b119a9002.svg",
+    "static/media/wing.svg": "/floppy/static/media/wing.7a06f4df9197a778966b332e7b89b561.svg",
+    "static/media/beakbottom.svg": "/floppy/static/media/beakbottom.31e830e31319317c89450e8cb7869ead.svg",
+    "static/media/beaktop.svg": "/floppy/static/media/beaktop.8337f20ff6dbedf6da954856a0eca123.svg",
+    "static/media/beardleft.svg": "/floppy/static/media/beardleft.a3e5050eaf60f3c5052ffbeeabf1b191.svg",
+    "static/media/beardright.svg": "/floppy/static/media/beardright.62b7ab19e2298a1bb7c3b6efc9a3ea87.svg",
+    "static/media/tail.svg": "/floppy/static/media/tail.5bb3599c538cb29824df594a4b9c4a55.svg",
+    "static/media/birdleg.svg": "/floppy/static/media/birdleg.1d627b6b5e626a573d7df894631b2f10.svg",
+    "index.html": "/floppy/index.html",
+    "main.3bc6b53c.css.map": "/floppy/static/css/main.3bc6b53c.css.map",
+    "main.c3079ff2.js.map": "/floppy/static/js/main.c3079ff2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bc6b53c.css",
+    "static/js/main.c3079ff2.js"
+  ]
+}

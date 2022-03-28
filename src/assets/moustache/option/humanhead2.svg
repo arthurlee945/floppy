@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 500.0 600.0"
+	enable-background="new 0 0 500.0 600.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="fillGrad0" x1="50.010%" y1="-0.233%" x2="50.010%" y2="100.233%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,226,187);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(255,220,166);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(255,214,143);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad6" x1="13.413%" y1="114.413%" x2="96.349%" y2="29.758%">
+   		<stop offset="0.000%" style="stop-color:rgb(138,0,0);stop-opacity:1.000" />
+		<stop offset="62.557%" style="stop-color:rgb(167,0,0);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(250,3,0);stop-opacity:0.573" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad7" x1="14.442%" y1="40.153%" x2="99.781%" y2="53.282%">
+   		<stop offset="0.000%" style="stop-color:rgb(128,128,128);stop-opacity:0.000" />
+		<stop offset="25.578%" style="stop-color:rgb(216,216,216);stop-opacity:0.294" />
+		<stop offset="50.000%" style="stop-color:rgb(128,128,128);stop-opacity:0.000" />
+		<stop offset="100.000%" style="stop-color:rgb(128,128,128);stop-opacity:0.000" />
+	</linearGradient>
+
+	<linearGradient id="stkGrad8" x1="-0.000%" y1="107.143%" x2="100.000%" y2="2.326%">
+   		<stop offset="0.000%" style="stop-color:rgb(21,21,21);stop-opacity:1.000" />
+		<stop offset="50.000%" style="stop-color:rgb(23,23,23);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(5,5,5);stop-opacity:1.000" />
+	</linearGradient>
+
+</defs>
+	<path
+		transform = "rotate(-0.00 249.29 300.45)"
+		fill="url(#fillGrad0)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M449.17,68.46C428.72,46.83,408.27,25.21,352.36,13.85C296.46,2.49,205.12,1.39,143.47,18.93C81.82,36.47,49.86,72.64,31.38,101.96C12.89,131.29,7.87,153.78,5.90,208.07C3.93,262.35,5.01,348.43,11.00,406.43C16.98,464.43,27.88,494.35,51.76,521.76C75.63,549.18,112.48,574.09,168.94,586.35C225.40,598.61,301.46,598.21,352.37,586.35C403.27,574.48,429.01,551.13,449.17,526.37C469.33,501.62,483.89,475.45,489.93,415.66C495.97,355.86,493.48,262.44,489.93,208.07C486.39,153.70,481.79,138.39,477.19,123.08"/>
+	<path
+		fill="#FEFEFE"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M246.62,107.60C269.75,108.03,288.16,127.13,287.73,150.27C287.30,173.40,268.19,191.80,245.06,191.37C221.93,190.94,203.52,171.84,203.96,148.71C204.39,125.57,223.49,107.17,246.62,107.60z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2.0"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M426.34,71.17C460.71,63.69,491.85,72.73,495.91,91.35C499.96,109.98,475.38,131.14,441.02,138.62C406.65,146.10,375.50,137.06,371.45,118.44C367.40,99.81,391.97,78.65,426.34,71.17z"/>
+	<path
+		fill="#000000"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.8152871"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M245.25,136.83C252.52,136.97,258.30,142.97,258.17,150.25C258.03,157.52,252.03,163.30,244.75,163.17C237.48,163.03,231.70,157.03,231.83,149.75C231.97,142.48,237.97,136.70,245.25,136.83z"/>
+	<path
+		fill="#000000"
+		stroke="#000000"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.8152871"
+		stroke-linejoin="miter"
+		stroke-linecap="square"
+		d="M435.25,91.83C442.52,91.97,448.30,97.97,448.17,105.25C448.03,112.52,442.03,118.30,434.75,118.17C427.48,118.03,421.70,112.03,421.83,104.75C421.97,97.48,427.97,91.70,435.25,91.83z"/>
+	<path
+		fill="#000000"
+		stroke="#000000"
+		fill-opacity="0.008"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M365.00,184.62C377.67,213.74,390.33,242.87,405.00,263.08C419.67,283.28,436.33,294.56,430.00,304.62C423.67,314.67,394.33,323.49,365.00,332.31"/>
+	<path
+		transform = "rotate(-353.60 374.41 473.00)"
+		fill="url(#fillGrad6)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="1.1448219"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M329.69,517.57C357.09,403.03,401.81,398.02,419.13,507.54"/>
+	<path
+		transform = "rotate(-0.00 245.00 147.69)"
+		fill="url(#fillGrad7)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.996"
+		fill-rule="nonzero"
+		stroke-width="5.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M245.00,77.38C283.83,77.38,315.31,108.86,315.31,147.69C315.31,186.52,283.83,218.00,245.00,218.00C206.17,218.00,174.69,186.52,174.69,147.69C174.69,108.86,206.17,77.38,245.00,77.38z"/>
+	<path
+		transform = "rotate(-0.00 112.50 283.85)"
+		fill="#FF0000"
+		stroke="url(#stkGrad8)"
+		fill-opacity="0.000"
+		stroke-opacity="1.0"
+		fill-rule="nonzero"
+		stroke-width="5.0"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M195.00,198.46C182.00,237.95,169.00,277.44,145.00,295.38C121.00,313.33,86.00,309.74,65.00,318.46C44.00,327.18,37.00,348.21,30.00,369.23"/>
+</svg>

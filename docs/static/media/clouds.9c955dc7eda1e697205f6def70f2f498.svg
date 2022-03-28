@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 2560.0 1440.0"
+	enable-background="new 0 0 2560.0 1440.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="fillGrad10" x1="52.912%" y1="16.298%" x2="55.311%" y2="94.078%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(247,247,247);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad21" x1="51.777%" y1="8.907%" x2="55.989%" y2="94.053%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(247,247,247);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad32" x1="43.810%" y1="9.387%" x2="46.259%" y2="95.121%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(247,247,247);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad43" x1="36.358%" y1="8.399%" x2="42.163%" y2="96.530%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(247,247,247);stop-opacity:1.000" />
+	</linearGradient>
+
+	<linearGradient id="fillGrad54" x1="46.002%" y1="10.557%" x2="49.731%" y2="93.139%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,255,255);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(247,247,247);stop-opacity:1.000" />
+	</linearGradient>
+
+</defs>
+	<path
+		transform = "rotate(-0.00 1153.94 187.15)"
+		fill="url(#fillGrad10)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="8.034879"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M920.28,156.34C747.28,208.79,855.25,367.29,1006.16,279.90C1088.18,334.39,1166.82,346.55,1236.51,276.58C1293.68,312.77,1340.38,312.77,1392.22,276.84C1538.16,276.84,1472.37,109.91,1359.89,182.77C1381.21,111.48,1280.61,44.54,1192.54,141.55C1173.44,41.65,995.21,-8.23,920.28,156.34z"/>
+	<path
+		transform = "rotate(-0.00 2119.02 470.94)"
+		fill="url(#fillGrad21)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="8.034879"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M1894.13,434.12C1703.21,448.96,1761.03,630.11,1908.62,578.75C2018.93,661.22,2141.47,623.43,2195.45,552.86C2246.72,610.12,2352.88,600.58,2389.13,529.01C2500.93,527.96,2483.89,414.83,2372.93,433.30C2352.88,310.11,2204.54,337.84,2179.74,405.45C2130.04,285.57,1967.25,278.43,1894.13,434.12z"/>
+	<path
+		transform = "rotate(-0.00 1870.87 1014.91)"
+		fill="url(#fillGrad32)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="8.034879"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M1659.09,1116.84C1460.58,1142.29,1460.58,971.33,1599.43,980.80C1646.87,841.44,1836.50,848.55,1883.37,980.13C1943.83,875.40,2118.42,908.42,2118.46,1018.42C2230.06,919.53,2317.05,1138.04,2134.33,1111.29C2094.86,1160.07,1994.56,1160.07,1917.16,1092.96C1865.75,1149.38,1727.40,1177.67,1659.09,1116.84z"/>
+	<path
+		transform = "rotate(-0.00 433.01 655.32)"
+		fill="url(#fillGrad43)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="7.2"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M212.79,626.83C221.06,535.73,353.29,487.37,395.41,575.82C465.27,514.48,567.72,499.56,618.65,585.77C727.09,571.66,749.99,677.48,648.41,700.95C613.48,757.69,535.43,788.47,463.89,741.59C429.89,788.47,314.32,810.52,263.87,740.21C147.40,761.30,109.27,643.29,212.79,626.83z"/>
+	<path
+		transform = "rotate(-0.00 804.29 1184.45)"
+		fill="url(#fillGrad54)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="0.000"
+		fill-rule="nonzero"
+		stroke-width="8.034879"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M624.58,1144.88C687.48,1031.75,791.07,1056.01,844.22,1111.90C898.42,1058.87,983.54,1066.32,1009.18,1168.25C1081.78,1165.14,1087.83,1295.26,987.33,1250.99C957.53,1302.72,867.70,1334.32,808.79,1259.97C768.32,1313.54,686.50,1304.92,644.22,1264.05C505.03,1313.54,526.10,1135.09,624.58,1144.88z"/>
+</svg>

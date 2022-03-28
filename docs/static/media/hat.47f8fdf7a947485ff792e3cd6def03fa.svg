@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 500.0 500.0"
+	enable-background="new 0 0 500.0 500.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="fillGrad6" x1="50.000%" y1="100.576%" x2="50.000%" y2="3.466%">
+   		<stop offset="0.000%" style="stop-color:rgb(8,8,8);stop-opacity:1.000" />
+		<stop offset="65.282%" style="stop-color:rgb(18,18,18);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(55,55,55);stop-opacity:1.000" />
+	</linearGradient>
+
+	<radialGradient id="fillGrad14" cx="48.214%" cy="22.580%" fx="48.214%" fy="22.580%" r="69.997%">
+   		<stop offset="0.000%" style="stop-color:rgb(249,249,249);stop-opacity:1.000" />
+		<stop offset="61.290%" style="stop-color:rgb(242,242,242);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(232,232,232);stop-opacity:1.000" />
+	</radialGradient>
+
+</defs>
+	<path
+		transform = "rotate(-0.00 250.00 249.24)"
+		fill="url(#fillGrad6)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="3"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M376.52,463.58C289.76,468.44,187.22,468.44,123.48,463.58C76.74,360.48,56.88,121.82,81.99,81.28C165.69,14.58,333.10,14.58,418.01,81.28C443.12,121.82,423.26,360.48,376.52,463.58z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#080808"
+		fill-opacity="0.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="15.694389"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M12.43,449.83C131.21,475.06,368.79,475.06,487.57,449.83"/>
+	<path
+		transform = "rotate(-0.00 250.00 256.84)"
+		fill="url(#fillGrad14)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="3"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M74.22,230.41C162.41,250.08,338.19,250.08,425.78,230.41C424.68,241.30,423.98,253.07,421.59,268.11C335.80,288.33,164.20,288.33,78.41,268.11C76.02,253.07,75.32,241.30,74.22,230.41z"/>
+</svg>

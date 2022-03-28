@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 500.0 300.0"
+	enable-background="new 0 0 500.0 300.0"
+	xml:space="preserve">
+<defs>
+	<linearGradient id="fillGrad0" x1="31.206%" y1="40.741%" x2="83.006%" y2="79.652%">
+   		<stop offset="0.000%" style="stop-color:rgb(255,227,102);stop-opacity:1.000" />
+		<stop offset="41.309%" style="stop-color:rgb(255,218,51);stop-opacity:1.000" />
+		<stop offset="100.000%" style="stop-color:rgb(236,193,0);stop-opacity:1.000" />
+	</linearGradient>
+
+</defs>
+	<path
+		transform = "rotate(-320.25 432.78 69.52)"
+		fill="url(#fillGrad0)"
+		stroke="#000000"
+		fill-opacity="1.0"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="2"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M323.58,110.23C377.07,1.80,485.86,1.80,541.97,109.35M323.58,110.23C315.29,127.71,280.34,174.18,227.22,153.42C239.44,175.03,251.60,184.43,263.75,193.83C235.34,245.62,125.91,311.64,82.09,319.32C133.28,358.91,173.03,379.26,271.43,387.80C402.87,381.18,497.31,302.63,535.13,221.87C552.69,182.61,557.65,140.58,541.97,109.35"/>
+</svg>
